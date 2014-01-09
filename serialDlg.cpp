@@ -234,5 +234,5 @@ void CSerialDlg::OnCancel()
 
 void CSerialDlg::OnCancel2() 
 {
-ShellExecute(NULL, NULL, _T("http://xiaohaizhu.taobao.com"), NULL,NULL, SW_SHOWNORMAL);  	
+ShellExecute(NULL, NULL, _T("http://eecs.taobao.com"), NULL,NULL, SW_SHOWNORMAL);  	
 }

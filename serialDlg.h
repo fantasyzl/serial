@@ -1,6 +1,6 @@
 // serialDlg.h : header file
 //
-//#include "SerialPort.h"
+#include "SerialPort.h"
 #if !defined(AFX_SERIALDLG_H__52D2D6BD_56C4_4D56_9A5F_E005760AA71C__INCLUDED_)
 #define AFX_SERIALDLG_H__52D2D6BD_56C4_4D56_9A5F_E005760AA71C__INCLUDED_
 
